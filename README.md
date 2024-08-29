@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Hi🖐 This is Jubair Ahammed</h1>
-<h3 align="center">--------</h3>
+<hr />
 
 <!-- Graph Animation -->
 <div align="center">
